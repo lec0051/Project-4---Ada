@@ -1,9 +1,9 @@
 # Project-4---Ada
 
 ### Quick Start
-Download GNAT Ada 2018
-Download repository 
-Find 'main.adb', 'random.adb', and 'random.ads' files
+  - Download GNAT Ada 2018
+  - Download repository 
+  - Find 'main.adb', 'random.adb', and 'random.ads' files
 
 ### Table of Contents
   - Summary
